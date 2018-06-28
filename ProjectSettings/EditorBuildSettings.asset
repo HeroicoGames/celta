@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Local Assets/Scenes/Main Menu.unity
+    guid: b74ab8d6bc603424eb13b534ba09825b
+  - enabled: 1
+    path: Assets/Local Assets/Scenes/Game.unity
+    guid: 3ab3a97192e6bf0419bd3ad11861b6bd
+  - enabled: 0
+    path: Assets/Local Assets/Scenes/Test/Jeison.unity
+    guid: ab7f7bcf0f9564670b79b6fb11b76a93
